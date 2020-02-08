@@ -1,0 +1,17 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "SENSUM CONTROLLER",
+  "short_name": "SENSUM CONTROLLER",
+  "version": "com.saunacontrol.saunacontroller",
+  "description": "Keep your szauna under control from anywhere.",
+  "author": "Sauna Controller team",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "start_url": "index.html"
+}
