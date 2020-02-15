@@ -21,7 +21,7 @@
     <feature name="InAppBrowser">
         <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
     </feature>
-    <name>SENSUM CONTROLLER</name>
+    <name>SAUNA CONTROLLER</name>
     <description>
         Keep your szauna under control from anywhere.
     </description>
@@ -47,6 +47,7 @@
     <splash platform="android" qualifier="land-xhdpi" src="res/screen/android/Saunaicon2.jpg" />
     <allow-intent href="market:*" />
     <preference name="loglevel" value="DEBUG" />
-    <preference name="android-minSdkVersion" value="19" />
+    <preference name="android-minSdkVersion" value="28" />
+    <preference name="android-targetSdkVersion" value="28" />
     <preference name="EnableViewportScale" value="true" />
 </widget>
