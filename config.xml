@@ -3,7 +3,7 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "com.saunacontrol.saunacontroller"
         versionCode = "7"
-        version     = "1.0.1" >
+        version     = "1.0.2" >
     <name>SAUNA CONTROLLER</name>
     <description>
         Keep your szauna under control from anywhere.
